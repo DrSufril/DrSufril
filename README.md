@@ -11,13 +11,13 @@ I build and evaluate intelligent visual systems, connecting **academic research*
 
 ## 🚀 Featured project gallery
 
-These four projects illustrate my work in AI-powered visual analytics, human-centred intelligent systems, and immersive technologies. The ErgoMotion, Human Pose Analytics, and AI Site Safety previews are conceptual illustrations. SayongVR features a project demonstration photo and a 3D model screenshot. Each link opens a project walkthrough.
+These four projects illustrate my work in AI-powered visual analytics, human-centred intelligent systems, and immersive technologies. The gallery features actual project analysis renders, annotated images, and SayongVR demonstration visuals. Analysis overlays show research outputs and require human interpretation. Each link opens a project walkthrough.
 
 ### 🧍 ErgoMotion — AI-assisted ergonomic assessment
 
 Desktop video analysis with single-camera worker tracking or calibrated multi-camera 3D reconstruction, joint-angle visualisation, and REBA scoring. Frame-by-frame review, task-context inputs, timelines, and exports support research-oriented ergonomic assessment.
 
-[![Illustrative ErgoMotion preview](assets/ergomotion-concept.svg)](showcase/ergomotion.md)
+[![ErgoMotion 3D skeleton with joint-angle callouts and REBA score](assets/ergomotion-reba.jpg)](showcase/ergomotion.md)
 
 **[Explore ErgoMotion: workflow, technology & limitations →](showcase/ergomotion.md)**
 
@@ -25,7 +25,7 @@ Desktop video analysis with single-camera worker tracking or calibrated multi-ca
 
 Batch CCTV analysis with tiled person detection, 17-point pose estimation, explainable posture rules, and helmet checks. Annotated media, structured data, and a results viewer support human review and label correction.
 
-[![Illustrative human pose analytics preview](assets/human-pose-concept.svg)](showcase/human-pose.md)
+[![Worker detection and body-keypoint overlay on a shipyard image](assets/human-pose-analysis.jpg)](showcase/human-pose.md)
 
 **[Explore Human Pose Analytics: methods, outputs & evaluation →](showcase/human-pose.md)**
 
@@ -33,7 +33,7 @@ Batch CCTV analysis with tiled person detection, 17-point pose estimation, expla
 
 Tool-connected visual review of worker posture, helmet use, hot work, and gas cylinders. Remote and local deployment options produce annotated images and structured findings; single-image distances and safety flags require independent verification.
 
-[![Illustrative AI site safety preview](assets/site-safety-concept.svg)](showcase/site-safety.md)
+[![Hot-work analysis with gas-cylinder distance estimates](assets/site-safety-hotwork.jpg)](showcase/site-safety.md)
 
 **[Explore AI Site Safety: tools, deployment & review workflow →](showcase/site-safety.md)**
 

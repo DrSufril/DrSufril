@@ -4,9 +4,9 @@
 
 AI Site Safety connects computer vision tools with a conversational review workflow. A reviewer supplies a site photo and receives annotated evidence, structured findings, and reasons for potential review flags.
 
-![Conceptual AI Site Safety workflow](../assets/site-safety-concept.svg)
+![Hot-work analysis with gas-cylinder distance estimates](../assets/site-safety-hotwork.jpg)
 
-*Conceptual workflow illustration.*
+*AI Site Safety output showing hot-work and cylinder-distance annotations. Distances and the displayed violation labels are unvalidated model estimates, not verified measurements or compliance findings.*
 
 ## Analysis tools
 

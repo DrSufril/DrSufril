@@ -4,9 +4,9 @@
 
 Human Pose Analytics processes folders of images or videos from fixed cameras to detect people, estimate body keypoints, and assign interpretable posture labels. The project focuses on crowded shipyard and construction scenes, where workers can be small, distant, or partly occluded.
 
-![Conceptual Human Pose Analytics workflow](../assets/human-pose-concept.svg)
+![Worker detection and body-keypoint overlay on a shipyard image](../assets/human-pose-analysis.jpg)
 
-*Conceptual workflow illustration.*
+*Human Pose tool output showing a detected worker and estimated body keypoints. The overlay illustrates pose estimation; posture and safety interpretations require human review.*
 
 ## Analysis workflow
 

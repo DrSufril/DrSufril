@@ -4,9 +4,9 @@
 
 ErgoMotion is a desktop research application for reviewing movement and ergonomic risk from recorded video or live cameras. It combines pose estimation, 3D visualisation, joint-angle measurements, and Rapid Entire Body Assessment (REBA) scoring in a frame-by-frame review interface.
 
-![Conceptual ErgoMotion workflow](../assets/ergomotion-concept.svg)
+![ErgoMotion 3D skeleton with joint-angle callouts and REBA score](../assets/ergomotion-reba.jpg)
 
-*Conceptual workflow illustration.*
+*ErgoMotion analysis render showing a reconstructed skeleton, joint-angle callouts, and an estimated REBA score.*
 
 ## Purpose
 
