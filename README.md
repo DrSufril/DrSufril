@@ -15,27 +15,27 @@ These four projects illustrate my work in AI-powered visual analytics, human-cen
 
 ### 🧍 ErgoMotion — AI-assisted ergonomic assessment
 
-Markerless motion analysis with pose estimation, joint-angle visualisation, and research-oriented REBA assessment support.
+Desktop video analysis with single-camera worker tracking or calibrated multi-camera 3D reconstruction, joint-angle visualisation, and REBA scoring. Frame-by-frame review, task-context inputs, timelines, and exports support research-oriented ergonomic assessment.
 
 [![Illustrative ErgoMotion preview](assets/ergomotion-concept.svg)](showcase/ergomotion.md)
 
-**[Explore the 5-step ErgoMotion workflow →](showcase/ergomotion.md)**
+**[Explore ErgoMotion: workflow, technology & limitations →](showcase/ergomotion.md)**
 
 ### 📐 Human Pose Analytics — explainable posture analysis
 
-Human detection, body keypoint estimation, and preliminary posture labels designed for human review in research workflows.
+Batch CCTV analysis with tiled person detection, 17-point pose estimation, explainable posture rules, and helmet checks. Annotated media, structured data, and a results viewer support human review and label correction.
 
 [![Illustrative human pose analytics preview](assets/human-pose-concept.svg)](showcase/human-pose.md)
 
-**[Explore the 5-step human-pose workflow →](showcase/human-pose.md)**
+**[Explore Human Pose Analytics: methods, outputs & evaluation →](showcase/human-pose.md)**
 
 ### 🦺 AI Site Safety — visual inspection assistance
 
-Agent-compatible visual analysis concepts that produce structured review flags, with human verification before any safety interpretation.
+Tool-connected visual review of worker posture, helmet use, hot work, and gas cylinders. Remote and local deployment options produce annotated images and structured findings; single-image distances and safety flags require independent verification.
 
 [![Illustrative AI site safety preview](assets/site-safety-concept.svg)](showcase/site-safety.md)
 
-**[Explore the 5-step site-safety workflow →](showcase/site-safety.md)**
+**[Explore AI Site Safety: tools, deployment & review workflow →](showcase/site-safety.md)**
 
 ### 🏺 SayongVR — virtual pottery & interactive 3D modelling
 
@@ -53,8 +53,8 @@ An immersive Labu Sayong experience combining virtual pottery, hand tracking, an
 
 | Project / research area | Overview |
 | --- | --- |
-| **UAV Container Monitoring** | Drone-based container detection, tracking, identification, and OCR-assisted monitoring |
-| **Medical Imaging & Spine Analysis** | Image-based tracking, motion analysis, and quantitative assessment of human movement |
+| **UAV Container Monitoring** | Drone imagery for container detection, tracking, identification, and OCR-assisted monitoring; research includes planning field data collection and coordinating visual-analysis requirements. |
+| **Medical Imaging & Spine Analysis** | Research into image-based tracking and quantitative movement analysis, with a focus on medical imaging and spine-related motion. |
 
 ## 🛠️ Tools & technologies
 
