@@ -11,7 +11,7 @@ I build and evaluate intelligent visual systems, connecting **academic research*
 
 ## 🚀 Featured project gallery
 
-These three projects illustrate my work in AI-powered visual analytics and human-centred intelligent systems. **The preview graphics are original conceptual illustrations, not application screenshots or experimental results.** Each link opens a short, public-safe walkthrough; private code, datasets, and industrial footage remain private.
+These four projects illustrate my work in AI-powered visual analytics, human-centred intelligent systems, and immersive technologies. The ErgoMotion, Human Pose Analytics, and AI Site Safety previews are conceptual illustrations. SayongVR features a project demonstration photo and a 3D model screenshot. Each link opens a project walkthrough.
 
 ### 🧍 ErgoMotion — AI-assisted ergonomic assessment
 
@@ -37,12 +37,23 @@ Agent-compatible visual analysis concepts that produce structured review flags, 
 
 **[Explore the 5-step site-safety workflow →](showcase/site-safety.md)**
 
+### 🏺 SayongVR — virtual pottery & interactive 3D modelling
+
+An immersive Labu Sayong experience combining virtual pottery, hand tracking, and interactive 3D modelling.
+
+**MyIPO patent application PI 2026005263 — “Slice-Based Volumetric Modelling with Localized Deformation” (patent filed).**
+
+[![SayongVR demonstration using a VR headset](assets/sayongvr-demo.png)](showcase/sayongvr.md)
+
+[![SayongVR 3D pottery model in the modelling environment](assets/sayongvr-model.jpg)](showcase/sayongvr.md)
+
+**[Explore SayongVR and its 3D modelling approach →](showcase/sayongvr.md)**
+
 ## 🧪 Additional research directions
 
 | Project / research area | Overview |
 | --- | --- |
 | **UAV Container Monitoring** | Drone-based container detection, tracking, identification, and OCR-assisted monitoring |
-| **SayongVR** | Immersive virtual pottery and interactive 3D modelling with hand tracking |
 | **Medical Imaging & Spine Analysis** | Image-based tracking, motion analysis, and quantitative assessment of human movement |
 
 ## 🛠️ Tools & technologies
