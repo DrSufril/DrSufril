@@ -9,36 +9,33 @@ I build and evaluate intelligent visual systems, connecting **academic research*
 
 `Computer Vision` · `Deep Learning` · `Object Detection & Tracking` · `Human Pose Estimation` · `Medical Imaging` · `VR/XR` · `Edge AI`
 
-## 🚀 Featured research & development
+## 🚀 Featured project gallery
 
-### 🧍 ErgoMotion — AI-assisted ergonomic analysis
-A research and development project exploring **markerless human motion analysis** for ergonomic risk assessment.
+These three projects illustrate my work in AI-powered visual analytics and human-centred intelligent systems. **The preview graphics are original conceptual illustrations, not application screenshots or experimental results.** Each link opens a short, public-safe walkthrough; private code, datasets, and industrial footage remain private.
 
-- Video-based human pose estimation and 3D movement visualisation
-- Single-camera and multi-camera analysis workflows
-- Joint-angle analysis and **Rapid Entire Body Assessment (REBA)** support
+### 🧍 ErgoMotion — AI-assisted ergonomic assessment
 
-**Focus:** Computer vision · Human movement · Ergonomics
+Markerless motion analysis with pose estimation, joint-angle visualisation, and research-oriented REBA assessment support.
 
-### 🦺 Human Pose & Workplace Safety Analytics
-A computer vision research pipeline for analysing workers' posture in complex visual scenes.
+[![Illustrative ErgoMotion preview](assets/ergomotion-concept.svg)](showcase/ergomotion.md)
 
-- Detect people and estimate body keypoints in images and videos
-- Generate explainable posture categories for research review
-- Explore how motion and posture information can support safer workplaces
+**[Explore the 5-step ErgoMotion workflow →](showcase/ergomotion.md)**
 
-**Focus:** Pose estimation · Video analytics · Interpretable AI
+### 📐 Human Pose Analytics — explainable posture analysis
 
-> Posture and safety outputs are research-stage decision-support estimates, **not validated substitutes for professional safety assessments**.
+Human detection, body keypoint estimation, and preliminary posture labels designed for human review in research workflows.
 
-### 🔎 AI-assisted Site Safety Review
-Development of **AI-agent-compatible visual analysis tools** to help reviewers identify potentially unsafe conditions from site imagery.
+[![Illustrative human pose analytics preview](assets/human-pose-concept.svg)](showcase/human-pose.md)
 
-- Combine computer vision outputs with structured, reviewable results
-- Explore AI tool integrations for visual inspection workflows
-- Keep human judgement central to safety-related decisions
+**[Explore the 5-step human-pose workflow →](showcase/human-pose.md)**
 
-**Focus:** AI agents · Visual analysis · Human-in-the-loop systems
+### 🦺 AI Site Safety — visual inspection assistance
+
+Agent-compatible visual analysis concepts that produce structured review flags, with human verification before any safety interpretation.
+
+[![Illustrative AI site safety preview](assets/site-safety-concept.svg)](showcase/site-safety.md)
+
+**[Explore the 5-step site-safety workflow →](showcase/site-safety.md)**
 
 ## 🧪 Additional research directions
 
