@@ -1,31 +1,55 @@
-# Human Pose Analytics — workflow preview
+# Human Pose Analytics — explainable posture analysis
 
-[← Back to DrSufril's profile](../README.md)
+**CCTV analysis · Person detection · 2D keypoints · Human review**
 
-![Conceptual preview for Human Pose Analytics — workflow preview](../assets/human-pose-concept.svg)
+Human Pose Analytics processes folders of images or videos from fixed cameras to detect people, estimate body keypoints, and assign interpretable posture labels. The project focuses on crowded shipyard and construction scenes, where workers can be small, distant, or partly occluded.
 
-> **Illustrative workflow:** An illustrative walkthrough of a human-pose analysis research pipeline, based on a high-level description of the existing project. It is not a live demonstration or a screenshot.
+![Conceptual Human Pose Analytics workflow](../assets/human-pose-concept.svg)
 
-## A short, step-by-step demonstration
+*Conceptual workflow illustration.*
 
-1. **Input:** Still images or video frames are selected for analysis.
-2. **Person detection:** The system identifies candidate people in each frame.
-3. **Pose estimation:** Body keypoints are estimated for each detected person.
-4. **Posture review:** Interpretable rules produce preliminary posture categories.
-5. **Human verification:** A reviewer can inspect, correct, and interpret outputs.
+## Analysis workflow
 
-## Simplified workflow
+1. **Detect people:** combine a full-frame pass with overlapping image tiles to improve detection of small workers.
+2. **Estimate pose:** run a top-down pose model on each person crop to obtain 17 body keypoints with confidence values.
+3. **Describe posture:** apply geometric rules to visible joints, including trunk, knee, and thigh angles.
+4. **Review evidence:** inspect skeleton overlays, angles, and the reason behind each label; correct labels in a review page.
+5. **Export results:** produce structured data, annotated media, summary tables, and a static results website.
 
-```mermaid
-flowchart LR
-    A[Images or video] --> B[Person detection]
-    B --> C[Body keypoint estimation]
-    C --> D[Preliminary posture labels]
-    D --> E[Human review and reporting]
-```
+## Posture categories
 
-## Important limitations
+| Output | Interpretation |
+| --- | --- |
+| **Standing** | Upright posture with sufficient leg visibility |
+| **Moderate / severe bending** | Trunk and head geometry indicate different bending categories |
+| **Squatting / kneeling** | Knee and leg geometry suggest deep flexion or kneeling |
+| **Sitting** | Trunk and thigh geometry suggest a seated posture |
+| **Unknown** | Too few reliable joints to distinguish posture |
+| **Arms raised** | Separate flag; can also be unmeasurable |
 
-Posture classifications are research-stage outputs that can fail on occluded, crowded, or unseen scenes. They should not be used alone to decide whether a workplace is safe.
+Each classification includes the supporting angles and a plain-language reason. An additional helmet-check module can report helmet, no helmet, or unknown; experimental methods remain identified as such.
 
-**Source availability:** Underlying project repositories, datasets, and internal system screenshots remain private unless separately approved for release.
+## Outputs and review tools
+
+- Per-person bounding boxes, keypoints, confidence values, and posture explanations
+- Annotated images or video and per-file JSON
+- CSV summaries and run metadata recording settings and model versions
+- Static gallery, interactive skeleton viewer, video view, and label-correction page
+- Data-only reporting mode that omits source CCTV imagery
+- Resumable batch processing with errors recorded per file
+
+## Technology
+
+YOLOX person detection, RTMPose pose estimation, ONNX Runtime, OpenCV, Python, and rule-based posture geometry. GPU processing supports batch analysis.
+
+## Documented evaluation
+
+On the largest documented held-out posture set (**167 usable workers**), rules-v3 achieved **0.72 accuracy**, **0.77 severe-bend recall**, and **0.66 squat/kneel recall**. Both recall values were below the project's 0.80 target.
+
+An experimental gradient-boosted classifier was withdrawn after a larger held-out evaluation showed poorer results; the geometric rules remain the documented default.
+
+## Limitations
+
+These are **research-baseline posture labels, unvalidated for safety decisions**. Perspective, occlusion, crowded scenes, and missing joints affect the interpretation of 2D geometry. The evaluation figures describe specific datasets and do not establish performance at another site.
+
+[← Back to profile](../README.md)
