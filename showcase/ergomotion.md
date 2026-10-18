@@ -8,6 +8,26 @@ ErgoMotion is a desktop research application for reviewing movement and ergonomi
 
 *ErgoMotion analysis render showing a reconstructed skeleton, joint-angle callouts, and an estimated REBA score.*
 
+## Project image gallery
+
+### Standing posture
+
+![ErgoMotion standing posture with detected worker and skeleton overlay](../assets/ergomotion-standing.jpg)
+
+*Video analysis frame showing a detected worker and estimated body landmarks in a standing posture.*
+
+### Squatting posture
+
+![ErgoMotion squatting posture with body landmark overlay](../assets/ergomotion-squatting.jpg)
+
+*Another frame showing estimated body landmarks during a squatting posture. Overlays are research outputs for human review.*
+
+### Earlier interface prototype
+
+![Earlier ErgoMotion interface with video, 3D pose and REBA controls](../assets/ergomotion-interface.jpg)
+
+*Earlier prototype interface combining video playback, 3D pose visualisation, joint-angle measurements, and REBA task-context controls. Its layout may differ from the current application.*
+
 ## Purpose
 
 The project helps researchers examine how posture changes during a task, locate moments with elevated estimated ergonomic risk, and inspect the movement behind each score.
