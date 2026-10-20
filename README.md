@@ -1,13 +1,49 @@
 # Hi, I'm Sufril! 👋
 
+**Associate Professor Dr. Ahmad Sufril Azlan bin Mohamed**
+
 **Associate Professor · AI & Computer Vision Researcher · Applied AI Developer**  
 School of Computer Sciences, **Universiti Sains Malaysia (USM)**
 
 I build and evaluate intelligent visual systems, connecting **academic research** with **real-world AI applications**. My work spans computer vision, deep learning, human movement analysis, medical imaging, and immersive technologies.
 
+## 🎓 Academic background
+
+I am an Associate Professor at the School of Computer Sciences, Universiti Sains Malaysia, Penang, Malaysia. My research brings together image processing, visual tracking, medical and thermal imaging, and intelligent interactive systems.
+
+- **PhD, Image Processing / Computer Vision** — University of Salford, United Kingdom
+- **MSc, Computer Science** — University of Manchester, United Kingdom
+- **Bachelor of Information Technology (Hons), Multimedia Technology** — Multimedia University, Malaysia
+
+Qualifications and research background: [USM Experts CV](https://experts.usm.my/cvitae/sufril).
+
 ### 🔬 Areas of interest
 
-`Computer Vision` · `Deep Learning` · `Object Detection & Tracking` · `Human Pose Estimation` · `Medical Imaging` · `VR/XR` · `Edge AI`
+`Computer Vision` · `Image Processing` · `Deep Learning` · `Object Detection & Tracking` · `Defect Detection` · `Object Recognition` · `Near-Miss Analysis` · `Markerless Motion Capture` · `Medical & Thermal Imaging` · `VR/AR/XR` · `Game Development` · `Edge AI`
+
+## 📚 Research profile
+
+My Google Scholar research interests include **defect detection, object recognition, near-miss analysis, markerless motion capture, and virtual reality**. These complement my USM research interests in image processing, video tracking, medical and thermal imaging, AI, deep learning, and immersive technologies.
+
+### Google Scholar metrics
+
+| Metric | All time | Since 2021 |
+| --- | ---: | ---: |
+| Citations | 1,707 | 1,597 |
+| h-index | 22 | 20 |
+| i10-index | 44 | 41 |
+
+*Snapshot checked on 21 October 2026. Metrics change over time; see [Google Scholar](https://scholar.google.com/citations?hl=en&user=AHj1bTgAAAAJ) for current figures.*
+
+### Selected publications
+
+- **Improved genetic algorithm for mobile robot path planning in static environments** — *Expert Systems with Applications* 249, 123762 (2024).
+- **Efficientnet-lite and hybrid CNN-KNN implementation for facial expression recognition on raspberry pi** — *IEEE Access* 9, 134065–134080 (2021).
+- **Implementation of kinetic and kinematic variables in ergonomic risk assessment using motion capture simulation: A review** — *International Journal of Environmental Research and Public Health* 18(16), 8342 (2021).
+- **Gaussian-based R-CNN with large selective kernel for rotated object detection in remote sensing images** — *Neurocomputing* 620, 129248 (2025).
+- **YOLOv7-SiamFF: Industrial defect detection algorithm based on improved YOLOv7** — *Computers and Electrical Engineering* 114, 109090 (2024).
+
+Publication details and the full list are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AHj1bTgAAAAJ).
 
 ## 🚀 Featured project gallery
 
@@ -67,7 +103,12 @@ An immersive Labu Sayong experience combining virtual pottery, hand tracking, an
 I'm interested in collaborative research, student development, and industry R&D involving **AI, computer vision, intelligent monitoring, human motion analysis, medical imaging, and immersive computing**.
 
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=AHj1bTgAAAAJ)
-- 🎓 [Universiti Sains Malaysia](https://www.usm.my/)
+- 🎓 [USM Experts CV](https://experts.usm.my/cvitae/sufril)
+- 🏫 [USM faculty profile](https://cs.usm.my/index.php/faculty-member/164-ahmad-sufril-azlan-mohamed-dr)
+- 🆔 [ORCID: 0000-0002-2838-0872](https://orcid.org/0000-0002-2838-0872)
+- 📖 [Scopus author profile](https://www.scopus.com/authid/detail.uri?authorId=57190968285)
+- 🔎 [Web of Science: O-7036-2015](https://www.webofscience.com/wos/author/record/O-7036-2015/)
+- ✉️ [sufril@usm.my](mailto:sufril@usm.my)
 
 *Some projects are active research or private industrial collaborations. Public repositories, demonstrations, and datasets will be linked only where release and sharing are authorised.*
 
