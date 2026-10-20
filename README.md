@@ -5,7 +5,9 @@
 **Associate Professor · AI & Computer Vision Researcher · Applied AI Developer**  
 School of Computer Sciences, **Universiti Sains Malaysia (USM)**
 
-I build and evaluate intelligent visual systems, connecting **academic research** with **real-world AI applications**. My work spans computer vision, deep learning, human movement analysis, medical imaging, and immersive technologies.
+I build and evaluate intelligent visual systems, connecting **academic research** with **real-world AI applications**. My work spans computer vision, deep learning, human movement analysis, medical imaging, edge AI, and immersive learning. I also preserve documented research prototypes and historical implementations to support continued study and collaboration.
+
+[**Explore the 15-project research portfolio →**](showcase/research-portfolio.md)
 
 ## 🎓 Academic background
 
@@ -85,16 +87,36 @@ An immersive Labu Sayong experience combining virtual pottery, hand tracking, an
 
 **[Explore SayongVR and its 3D modelling approach →](showcase/sayongvr.md)**
 
-## 🧪 Additional research directions
+## 🧪 Research and project directory
 
-| Project / research area | Overview |
-| --- | --- |
-| **UAV Container Monitoring** | Drone imagery for container detection, tracking, identification, and OCR-assisted monitoring; research includes planning field data collection and coordinating visual-analysis requirements. |
-| **Medical Imaging & Spine Analysis** | Research into image-based tracking and quantitative movement analysis, with a focus on medical imaging and spine-related motion. |
+[**Explore the documented research portfolio →**](showcase/research-portfolio.md)
+
+The directory covers 15 projects across motion analysis, industrial vision, medical imaging, immersive education and research history. Source repositories and detailed project guides are **private and require existing access**. Their public summaries distinguish prototypes, historical archives and third-party reference software.
+
+| Project | Focus | Current scope |
+| --- | --- | --- |
+| [3DMRIRendering](showcase/research-portfolio.md#mri-reconstruction) | MRI/CT reconstruction and mesh visualization | Research application |
+| [ErgoMotion VR](showcase/research-portfolio.md#ergomotion-vr) | Immersive ergonomic posture assessment | Unity prototype |
+| [MATLAB Image Stitching](showcase/research-portfolio.md#matlab-image-stitching) | Image alignment for machine-vision inspection | Archival algorithm |
+| [C++ Stitching Launcher](showcase/research-portfolio.md#cpp-stitching-launcher) | MATLAB-to-C++ integration | Integration wrapper |
+| [METAL Motion Analysis](showcase/research-portfolio.md#metal-motion-analysis) | Markerless joint and movement analysis | Research prototype |
+| [WAHSP Vehicle Interface](showcase/research-portfolio.md#wahsp-system) | Vehicle cameras, HUD and sensor warnings | Unity simulation scripts |
+| [Near-Miss Detection](showcase/research-portfolio.md#near-miss-detection) | Traffic tracking and proximity analysis | Research and training |
+| [CEED Ceramic Education](showcase/research-portfolio.md#ceed-ceramic-simulation) | Ceramics instruction, 3D content and quizzes | Browser learning materials |
+| [RUTEAM Container Monitoring](showcase/research-portfolio.md#ruteam-container-monitoring) | Container OCR, PPE and edge monitoring | Edge-vision prototype |
+| [DARVIH](showcase/research-portfolio.md#darvih) | Game-based drug-prevention education | Unity educational-game scripts |
+| [PCB AOI and OCR](showcase/research-portfolio.md#pcb-aoi-ocr) | PCB annotation and crop preparation | Source fragment |
+| [Ultrasound Tendon Tracking](showcase/research-portfolio.md#ultrasound-tendon-tracking) | Ultrasound tracking and algorithm studies | Historical PhD archive |
+| [FAIRS Face Recognition](showcase/research-portfolio.md#fairs-face-recognition) | Face identification and verification | Historical MSc archive |
+| [Legacy ErgoMotion Python](showcase/research-portfolio.md#ergomotion-legacy-python) | Earlier desktop motion-analysis source | Earlier implementation |
+| [FloWave.US Reference Archive](showcase/research-portfolio.md#blood-flow-analysis) | Attributed FloWave.US ultrasound software | Third-party MIT software |
+
+The existing featured gallery above provides selected project walkthroughs. The directory adds context and links for the broader research collection.
 
 ## 🛠️ Tools & technologies
 
 **AI / Computer Vision:** `Python` · `PyTorch` · `YOLO` · `OpenCV` · `MediaPipe` · `CUDA`  
+**Scientific Computing:** `MATLAB` · `C++` · `Qt` · `CUDA`<br>
 **Immersive Computing:** `Unity` · `C#` · `VR/AR/XR`  
 **Systems & Workflow:** `Raspberry Pi` · `Git` · `Edge AI`
 
@@ -110,7 +132,7 @@ I'm interested in collaborative research, student development, and industry R&D 
 - 🔎 [Web of Science: O-7036-2015](https://www.webofscience.com/wos/author/record/O-7036-2015/)
 - ✉️ [sufril@usm.my](mailto:sufril@usm.my)
 
-*Some projects are active research or private industrial collaborations. Public repositories, demonstrations, and datasets will be linked only where release and sharing are authorised.*
+*Research prototypes and archived implementations have different levels of completeness. Private project links require existing access; source code, datasets and additional media remain subject to their contributors’ sharing terms.*
 
 ---
 
