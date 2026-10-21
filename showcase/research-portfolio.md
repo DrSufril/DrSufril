@@ -1,10 +1,10 @@
 # Research and project portfolio
 
-This directory brings together applied prototypes, historical research implementations and an attributed reference-software archive associated with my research and teaching. Each entry describes the scope supported by the recovered source and documentation.
+This directory covers all **29 repositories** in this account as checked on **21 October 2026**: **28 private application, research, data and infrastructure repositories**, plus this public profile repository. Related tools in a suite are listed individually; the repository count is not a count of independent research projects.
 
 **Repository access:** the linked source repositories and detailed guides are private. Their links require existing access. These public summaries do not change repository visibility or publish the private reports, figures, datasets or source code.
 
-The 15 project repositories have supporting guides, source credits and labelled workflows. Where suitable original material was recovered, those private guides include historical documents, screenshots, illustrations or figures. A recovered document is distinguished from a new implementation or independently reproduced evaluation.
+The 15 recovered project archives have supporting guides, source credits and labelled workflows. Where suitable original material was recovered, those private guides include historical documents, screenshots, illustrations or figures. A recovered document is distinguished from a new implementation or independently reproduced evaluation.
 
 ## Human motion and ergonomics
 
@@ -165,5 +165,159 @@ The source archive and original question bank provide project context. Scenes, a
 Original software credit belongs to Crystal Coolbaugh and the upstream contributors. The original MIT license and available third-party notices are retained; this archive is not presented as an original algorithm by this account.
 
 [Private source repository](https://github.com/DrSufril/blood-flow-analysis) · [Private project guide](https://github.com/DrSufril/blood-flow-analysis/blob/main/docs/project-overview.md)
+
+## Current applications and supporting repositories
+
+These 13 entries extend the recovered archive collection with current application source, educational tools, supporting data and deployment infrastructure. Summaries are based on repository documentation and selected app entry points; this directory update does not report new runtime testing.
+
+### Motion analysis
+
+<a id="ergomotion"></a>
+
+#### ErgoMotion Desktop
+
+**Desktop application.** Video-based ergonomic assessment with multiview triangulation, single-camera whole-body pose analysis, REBA scoring, replay and exports.
+
+Calibration, pose visibility and manually supplied load/activity factors affect scoring; the documented research evaluations have limited scope.
+
+[Private repository](https://github.com/DrSufril/Ergomotion)
+
+<a id="ergomotion-web"></a>
+
+#### ErgoMotion Web
+
+**Browser prototype.** React/MediaPipe browser implementation of pose-based REBA scoring, with Gemini-assisted recommendations.
+
+A separate browser implementation whose scoring and camera assumptions require assessment before operational use.
+
+[Private repository](https://github.com/DrSufril/ergomotion-web)
+
+### Site safety
+
+<a id="human-pose"></a>
+
+#### Human Pose Analytics
+
+**Research baseline.** Batch worker detection, pose estimation, posture labelling, helmet checks and reviewable image/video reports for site footage.
+
+The repository documents held-out evaluation and remaining errors; its posture labels are not validated safety decisions.
+
+[Private repository](https://github.com/DrSufril/human-pose)
+
+<a id="cylinder-distance"></a>
+
+#### Cylinder–Hot-Work Distance
+
+**Measurement prototype.** Estimates gas-cylinder distance to hot work from a single image using camera geometry, detection, depth estimates and uncertainty ranges.
+
+Sample thresholds were tuned on a small image collection; independent images and measured ground truth are needed.
+
+[Private repository](https://github.com/DrSufril/cylinder-distance)
+
+<a id="safety-detector"></a>
+
+#### Safety Detector
+
+**Mac desktop application.** Electron interface for photo-based posture and hot-work checks, with local or remote analysis and a results chat.
+
+An application interface around the underlying research checks; estimates require human review.
+
+[Private repository](https://github.com/DrSufril/safety-detector)
+
+<a id="dsh-site-safety"></a>
+
+#### Site Safety Harness Plugin
+
+**Tool integration.** Connects worker posture/helmet and cylinder-distance checks to a tool-calling AI assistant, returning annotated images and structured results.
+
+Shares the limitations of the underlying checks and the applicable model licences.
+
+[Private repository](https://github.com/DrSufril/dsh-site-safety)
+
+<a id="site-safety-mac"></a>
+
+#### Site Safety on Mac
+
+**Apple silicon deployment.** Local Apple GPU deployment of the posture and hot-work tools with Ollama and a conversational interface.
+
+Offline operation requires prior setup and model downloads; hardware capacity and model terms constrain use.
+
+[Private repository](https://github.com/DrSufril/site-safety-mac)
+
+<a id="kimi-gas-safety"></a>
+
+#### Gas Safety Detection
+
+**Detection experiment.** Gas hose, meter, stove and valve detection experiments with dataset-generation tools, training/validation scripts and saved model runs.
+
+An experimental repository; included runs and weights do not establish field reliability.
+
+[Private repository](https://github.com/DrSufril/kimi-gas-safety)
+
+### Supporting data
+
+<a id="site-safety-data"></a>
+
+#### Site Safety Data
+
+**Private dataset.** Training and evaluation images, posture/helmet labels, hot-work annotations and split definitions supporting the site-safety tools.
+
+Team access and dataset terms apply. Held-out data must remain separate from model tuning; no images or annotations are reproduced here.
+
+[Private repository](https://github.com/DrSufril/site-safety-data)
+
+### AI infrastructure
+
+<a id="dsh-local"></a>
+
+#### Local Harness Workspace
+
+**Deployment support.** Laptop interface, model connection, upload handling and tool bridge for local/remote AI-assisted workflows.
+
+Supporting infrastructure for the applications, rather than a separately validated research result.
+
+[Private repository](https://github.com/DrSufril/dsh-local)
+
+<a id="small-harness"></a>
+
+#### Small Agent Harness
+
+**Agent prototype.** A learning prototype for local model tool calling, with workspace file tools, a model-serving adapter and vision-tool experiments.
+
+A research/development harness with bounded workspace access; deployment and model-serving components are documented separately.
+
+[Private repository](https://github.com/DrSufril/small-harness)
+
+### Educational AI
+
+<a id="taxonomy"></a>
+
+#### CS@USM Bloom’s Taxonomy Indicator
+
+**Browser prototype.** Analyses learning-objective verbs across cognitive, affective and psychomotor domains, including document analysis and Gemini-assisted question and language tools.
+
+AI suggestions support educator review and do not replace academic judgement.
+
+[Private repository](https://github.com/DrSufril/taxonomy)
+
+<a id="usm-handbook-ai-assistant"></a>
+
+#### USM Handbook AI Assistant
+
+**Student-support prototype.** Gemini-powered chat interface for questions about the USM School of Computer Sciences undergraduate handbook for the 2025/2026 session.
+
+Answers depend on the included handbook edition and should be checked against official current guidance.
+
+[Private repository](https://github.com/DrSufril/USM-Handbook-AI-Assistant)
+
+## Public profile repository
+
+<a id="drsufril"></a>
+
+### DrSufril
+
+Academic profile, research interests, scholarly links, selected publications and this repository directory.
+
+[Public repository](https://github.com/DrSufril/DrSufril)
 
 [← Back to profile](../README.md)

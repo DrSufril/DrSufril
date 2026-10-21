@@ -7,7 +7,7 @@ School of Computer Sciences, **Universiti Sains Malaysia (USM)**
 
 I build and evaluate intelligent visual systems, connecting **academic research** with **real-world AI applications**. My work spans computer vision, deep learning, human movement analysis, medical imaging, edge AI, and immersive learning. I also preserve documented research prototypes and historical implementations to support continued study and collaboration.
 
-[**Explore the 15-project research portfolio →**](showcase/research-portfolio.md)
+[**Explore the 29-repository directory →**](showcase/research-portfolio.md)
 
 ## 🎓 Academic background
 
@@ -91,10 +91,23 @@ An immersive Labu Sayong experience combining virtual pottery, hand tracking, an
 
 [**Explore the documented research portfolio →**](showcase/research-portfolio.md)
 
-The directory covers 15 projects across motion analysis, industrial vision, medical imaging, immersive education and research history. Source repositories and detailed project guides are **private and require existing access**. Their public summaries distinguish prototypes, historical archives and third-party reference software.
+As of **21 October 2026**, this account contains **29 repositories: this public profile and 28 private repositories** covering applications, research archives, educational tools, data and AI infrastructure. All are listed below. Private links require existing access; these summaries do not publish their source or data.
 
 | Project | Focus | Current scope |
 | --- | --- | --- |
+| [ErgoMotion Desktop](showcase/research-portfolio.md#ergomotion) | Motion analysis | Desktop application |
+| [ErgoMotion Web](showcase/research-portfolio.md#ergomotion-web) | Motion analysis | Browser prototype |
+| [Human Pose Analytics](showcase/research-portfolio.md#human-pose) | Site safety | Research baseline |
+| [Cylinder–Hot-Work Distance](showcase/research-portfolio.md#cylinder-distance) | Site safety | Measurement prototype |
+| [Safety Detector](showcase/research-portfolio.md#safety-detector) | Site safety | Mac desktop application |
+| [Site Safety Harness Plugin](showcase/research-portfolio.md#dsh-site-safety) | Site safety | Tool integration |
+| [Site Safety on Mac](showcase/research-portfolio.md#site-safety-mac) | Site safety | Apple silicon deployment |
+| [Gas Safety Detection](showcase/research-portfolio.md#kimi-gas-safety) | Site safety | Detection experiment |
+| [Site Safety Data](showcase/research-portfolio.md#site-safety-data) | Supporting data | Private dataset |
+| [Local Harness Workspace](showcase/research-portfolio.md#dsh-local) | AI infrastructure | Deployment support |
+| [Small Agent Harness](showcase/research-portfolio.md#small-harness) | AI infrastructure | Agent prototype |
+| [CS@USM Bloom’s Taxonomy Indicator](showcase/research-portfolio.md#taxonomy) | Educational AI | Browser prototype |
+| [USM Handbook AI Assistant](showcase/research-portfolio.md#usm-handbook-ai-assistant) | Educational AI | Student-support prototype |
 | [3DMRIRendering](showcase/research-portfolio.md#mri-reconstruction) | MRI/CT reconstruction and mesh visualization | Research application |
 | [ErgoMotion VR](showcase/research-portfolio.md#ergomotion-vr) | Immersive ergonomic posture assessment | Unity prototype |
 | [MATLAB Image Stitching](showcase/research-portfolio.md#matlab-image-stitching) | Image alignment for machine-vision inspection | Archival algorithm |
@@ -110,6 +123,7 @@ The directory covers 15 projects across motion analysis, industrial vision, medi
 | [FAIRS Face Recognition](showcase/research-portfolio.md#fairs-face-recognition) | Face identification and verification | Historical MSc archive |
 | [Legacy ErgoMotion Python](showcase/research-portfolio.md#ergomotion-legacy-python) | Earlier desktop motion-analysis source | Earlier implementation |
 | [FloWave.US Reference Archive](showcase/research-portfolio.md#blood-flow-analysis) | Attributed FloWave.US ultrasound software | Third-party MIT software |
+| [DrSufril Profile](showcase/research-portfolio.md#drsufril) | Academic profile and complete repository directory | Public profile |
 
 The existing featured gallery above provides selected project walkthroughs. The directory adds context and links for the broader research collection.
 
