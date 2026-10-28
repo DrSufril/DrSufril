@@ -68,4 +68,6 @@ Occlusion, missed people, changing limb lengths, estimated depth, and camera cal
 
 **Use:** research and ergonomic review support, with human interpretation.
 
+[Read the related paper and download its citation](../research/ergomotion/README.md)
+
 [← Back to profile](../README.md)

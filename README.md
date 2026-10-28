@@ -47,6 +47,12 @@ My Google Scholar research interests include **defect detection, object recognit
 
 Publication details and the full list are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=AHj1bTgAAAAJ).
 
+## Research papers and reusable resources
+
+[**Explore five research pages →**](research/README.md)
+
+Read the publications, find citation files and see how each study relates to the available project resources: [ErgoMotion](research/ergomotion/README.md), [2D human pose](research/human-pose/README.md), [PCB inspection](research/pcb-inspection/README.md), [near-miss analysis](research/near-miss/README.md) and [3D medical imaging](research/medical-reconstruction/README.md).
+
 ## 🚀 Featured project gallery
 
 These four projects illustrate my work in AI-powered visual analytics, human-centred intelligent systems, and immersive technologies. The gallery features actual project analysis renders, annotated images, and SayongVR demonstration visuals. Analysis overlays show research outputs and require human interpretation. Each link opens a project walkthrough.

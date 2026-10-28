@@ -52,4 +52,6 @@ An experimental gradient-boosted classifier was withdrawn after a larger held-ou
 
 These are **research-baseline posture labels, unvalidated for safety decisions**. Perspective, occlusion, crowded scenes, and missing joints affect the interpretation of 2D geometry. The evaluation figures describe specific datasets and do not establish performance at another site.
 
+[Read the related paper and download its citation](../research/human-pose/README.md)
+
 [← Back to profile](../README.md)
