@@ -25,17 +25,17 @@ Qualifications and research background: [USM Experts CV](https://experts.usm.my/
 
 ## 📚 Research profile
 
-My Google Scholar research interests include **defect detection, object recognition, near-miss analysis, markerless motion capture, and virtual reality**. These complement my USM research interests in image processing, video tracking, medical and thermal imaging, AI, deep learning, and immersive technologies.
+My Google Scholar research interests are **computer vision, deep learning, human motion analysis, ergonomics, and virtual reality**. These complement my USM work in image processing, video tracking, medical and thermal imaging, AI, and immersive technologies.
 
 ### Google Scholar metrics
 
 | Metric | All time | Since 2021 |
 | --- | ---: | ---: |
-| Citations | 1,707 | 1,597 |
+| Citations | 1,723 | 1,613 |
 | h-index | 22 | 20 |
-| i10-index | 44 | 41 |
+| i10-index | 45 | 42 |
 
-*Snapshot checked on 21 October 2026. Metrics change over time; see [Google Scholar](https://scholar.google.com/citations?hl=en&user=AHj1bTgAAAAJ) for current figures.*
+*Snapshot checked on 2 November 2026. Metrics change over time; see [Google Scholar](https://scholar.google.com/citations?hl=en&user=AHj1bTgAAAAJ) for current figures.*
 
 ### Selected publications
 
@@ -49,9 +49,9 @@ Publication details and the full list are available on [Google Scholar](https://
 
 ## Research papers and reusable resources
 
-[**Explore five research pages →**](research/README.md)
+[**Explore the permanent research visibility hub →**](research/README.md)
 
-Read the publications, find citation files and see how each study relates to the available project resources: [ErgoMotion](research/ergomotion/README.md), [2D human pose](research/human-pose/README.md), [PCB inspection](research/pcb-inspection/README.md), [near-miss analysis](research/near-miss/README.md) and [3D medical imaging](research/medical-reconstruction/README.md).
+Read plain-language summaries, verify canonical citations, download BibTeX files and find public media or reusable resources for the priority papers: [cattle behaviour](research/cattle-behaviour/README.md), [cow segmentation](research/cow-segmentation/README.md), [smart animal husbandry](research/smart-animal-husbandry/README.md) and [2D human pose](research/human-pose/README.md). The hub also indexes ErgoMotion, PCB inspection, near-miss analysis and 3D medical imaging research.
 
 ## 🚀 Featured project gallery
 
