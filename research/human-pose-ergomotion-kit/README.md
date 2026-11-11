@@ -6,7 +6,7 @@ A guided entry point connecting published research on **2D/3D human pose estimat
 
 ## Paper visibility programme
 
-[**Open the paper-by-paper visibility plan →**](PAPER-VISIBILITY-PLAN.md)
+[**Open the paper-by-paper visibility plan →**](PAPER-VISIBILITY-PLAN.md) · [Ready-to-use social post drafts](SOCIAL-POST-DRAFTS.md)
 
 Each core paper now has a dedicated page with verified metadata, a reusable checklist, a distinct promotion angle and an integrity note. The programme supports discovery and legitimate reuse; it cannot guarantee citations.
 
