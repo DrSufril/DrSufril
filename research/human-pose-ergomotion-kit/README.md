@@ -4,11 +4,9 @@ A guided entry point connecting published research on **2D/3D human pose estimat
 
 > **Scope:** The papers provide research evidence and technical context. The applications are separate implementations at different maturity levels. A link in this kit does not mean that an application reproduces, implements or validates every method in a linked paper.
 
-## Paper visibility programme
+## Paper resources
 
-[**Open the paper-by-paper visibility plan →**](PAPER-VISIBILITY-PLAN.md) · [Ready-to-use social post drafts](SOCIAL-POST-DRAFTS.md)
-
-Each core paper now has a dedicated page with verified metadata, a reusable checklist, a distinct promotion angle and an integrity note. The programme supports discovery and legitimate reuse; it cannot guarantee citations.
+Each core paper has a dedicated public page with verified metadata, a reusable checklist, application context and an integrity note. These resources support discovery and legitimate scholarly reuse.
 
 ## Start here
 
