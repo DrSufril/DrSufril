@@ -2,6 +2,12 @@
 
 A permanent index of selected publications, accurate citations, plain-language explanations and reusable public resources. Publisher-hosted full text is linked rather than copied. Private code, datasets and media are not published here.
 
+## Featured research kit
+
+[**Explore the Human Pose Estimation & ErgoMotion Research Kit →**](human-pose-ergomotion-kit/README.md)
+
+The kit connects the 2D/3D pose-estimation papers, markerless motion-capture studies and ergonomics foundations with ErgoMotion Desktop, Web, VR, legacy implementations, METAL Motion Analysis and Human Pose Analytics. It clearly distinguishes published evidence, application capabilities and private or unavailable resources.
+
 ## Priority papers
 
 These papers are closest to the current Google Scholar h-index frontier and are the first focus of the visibility programme.
