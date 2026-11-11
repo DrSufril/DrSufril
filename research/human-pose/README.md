@@ -2,6 +2,8 @@
 
 This open-access survey maps deep-learning approaches for locating human body joints in images. It covers body representations, estimation pipelines, datasets, model components and unresolved research challenges.
 
+[**Explore the Human Pose Estimation & ErgoMotion Research Kit →**](../human-pose-ergomotion-kit/README.md)
+
 ## Read and cite the paper
 
 **A Survey on Deep Learning-Based 2D Human Pose Estimation Models**  
@@ -32,6 +34,8 @@ The survey provides background for the later Human Pose Analytics application. T
 **Workflow:** image or video → person detection → 2D keypoints → posture geometry → reviewable output
 
 [Methods, demonstration image and documented evaluation](../../showcase/human-pose.md) · [Private source repository—existing access required](https://github.com/DrSufril/human-pose)
+
+The [Human Pose Estimation & ErgoMotion Research Kit](../human-pose-ergomotion-kit/README.md) maps this survey to related 2D/3D pose papers and the wider ErgoMotion application family.
 
 ## Limits and future work
 
