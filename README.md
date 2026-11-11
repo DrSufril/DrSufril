@@ -51,7 +51,7 @@ Publication details and the full list are available on [Google Scholar](https://
 
 [**Explore the permanent research visibility hub →**](research/README.md)
 
-Read plain-language summaries, verify canonical citations, download BibTeX files and find public media or reusable resources for the priority papers: [cattle behaviour](research/cattle-behaviour/README.md), [cow segmentation](research/cow-segmentation/README.md), [smart animal husbandry](research/smart-animal-husbandry/README.md) and [2D human pose](research/human-pose/README.md). The hub also indexes ErgoMotion, PCB inspection, near-miss analysis and 3D medical imaging research.
+Read plain-language summaries, verify canonical citations, download BibTeX files and find public media or reusable resources for the priority papers: [cattle behaviour](research/cattle-behaviour/README.md), [cow segmentation](research/cow-segmentation/README.md), [smart animal husbandry](research/smart-animal-husbandry/README.md) and [2D human pose](research/human-pose/README.md). The [Human Pose Estimation & ErgoMotion Research Kit](research/human-pose-ergomotion-kit/README.md) connects the pose-estimation papers, markerless motion studies and ErgoMotion applications in one guided resource.
 
 ## 🚀 Featured project gallery
 
