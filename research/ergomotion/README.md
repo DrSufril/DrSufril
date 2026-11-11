@@ -2,6 +2,8 @@
 
 This review examines monocular 3D pose methods and their use in REBA ergonomic assessment. It gives readers a route into the methods, challenges and research questions behind camera-based posture analysis.
 
+[**Explore the Human Pose Estimation & ErgoMotion Research Kit →**](../human-pose-ergomotion-kit/README.md)
+
 ## Read the paper
 
 **Monocular 3D Human Pose Estimation for REBA Ergonomics: A Critical Review of Recent Advances**  
@@ -21,7 +23,7 @@ The paper is a review providing research context for ErgoMotion. It is not a pub
 
 [Application walkthrough and existing demonstration images](../../showcase/ergomotion.md)
 
-Start with the review to select pose methods and evaluation criteria. The application walkthrough explains camera modes, review tools and measurement limits.
+Start with the review to select pose methods and evaluation criteria. The application walkthrough explains camera modes, review tools and measurement limits. The [research kit](../human-pose-ergomotion-kit/README.md) then connects this work to related 2D-pose, markerless-motion and ErgoMotion implementations.
 
 [Private source repository — existing access required](https://github.com/DrSufril/Ergomotion)
 
@@ -31,4 +33,4 @@ Camera calibration, occlusion and estimated depth affect measurements. REBA also
 
 Cite the linked paper when using its findings or methods. For any software actually used, also credit the relevant implementation, version and upstream contributors.
 
-[Discuss research or collaboration](mailto:sufril@usm.my) · [All five research pages](../README.md) · [Profile](../../README.md)
+[Discuss research or collaboration](mailto:sufril@usm.my) · [All research pages](../README.md) · [Profile](../../README.md)
