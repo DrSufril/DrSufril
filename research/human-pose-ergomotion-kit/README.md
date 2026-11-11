@@ -4,6 +4,12 @@ A guided entry point connecting published research on **2D/3D human pose estimat
 
 > **Scope:** The papers provide research evidence and technical context. The applications are separate implementations at different maturity levels. A link in this kit does not mean that an application reproduces, implements or validates every method in a linked paper.
 
+## Paper visibility programme
+
+[**Open the paper-by-paper visibility plan →**](PAPER-VISIBILITY-PLAN.md)
+
+Each core paper now has a dedicated page with verified metadata, a reusable checklist, a distinct promotion angle and an integrity note. The programme supports discovery and legitimate reuse; it cannot guarantee citations.
+
 ## Start here
 
 Choose the route that matches your goal:
@@ -23,23 +29,23 @@ Choose the route that matches your goal:
 
 1. **A Survey on Deep Learning-Based 2D Human Pose Estimation Models**  
    Sani Salisu, Ahmad Sufril Azlan Mohamed, Mohd Hafiidz Jaafar, Ainun Syarafana Binti Pauzi and Hussain A. Younis. *Computers, Materials & Continua* 76(2), 2385–2400 (2023).  
-   [Paper page, open-access article and BibTeX](../human-pose/README.md) · [DOI 10.32604/cmc.2023.035904](https://doi.org/10.32604/cmc.2023.035904)
+   [Companion visibility and reuse page](papers/2d-pose-survey.md) · [Paper page and BibTeX](../human-pose/README.md) · [DOI 10.32604/cmc.2023.035904](https://doi.org/10.32604/cmc.2023.035904)
 
 2. **Monocular 3D Human Pose Estimation for REBA Ergonomics: A Critical Review of Recent Advances**  
    *Computers, Materials & Continua* (2025).  
-   [Paper page and BibTeX](../ergomotion/README.md) · [DOI 10.32604/cmc.2025.064250](https://doi.org/10.32604/cmc.2025.064250)
+   [Companion visibility and reuse page](papers/3d-pose-reba-review.md) · [Paper page and BibTeX](../ergomotion/README.md) · [DOI 10.32604/cmc.2025.064250](https://doi.org/10.32604/cmc.2025.064250)
 
 3. **Movement Estimation Using MediaPipe BlazePose**  
    *Advances in Visual Informatics* (2021).  
-   [Locate the publication through Google Scholar](https://scholar.google.com/scholar?q=%22Movement+Estimation+Using+Mediapipe+BlazePose%22)
+   [Companion visibility and reuse page](papers/blazepose-movement.md) · [DOI 10.1007/978-3-030-90235-3_49](https://doi.org/10.1007/978-3-030-90235-3_49)
 
 4. **Torso Bending Estimation for Deep Learning 2D Markerless Motion Capture**  
    10th ASEAN Workshop on Information Science and Technology (2022).  
-   [Locate the publication through Google Scholar](https://scholar.google.com/scholar?q=%22Torso+Bending+Estimation+for+Deep+Learning+2D+Markerless+Motion+Capture%22)
+   [Metadata and discoverability page](papers/torso-bending.md) · [Google Scholar title search](https://scholar.google.com/scholar?q=%22Torso+Bending+Estimation+for+Deep+Learning+2D+Markerless+Motion+Capture%22)
 
 5. **Enhancing 2D Joints Estimation in Markerless Motion Capture for Improved Tracking of Spinal Movements**  
    (2025).  
-   [Locate the publication through Google Scholar](https://scholar.google.com/scholar?q=%22Enhancing+2D+Joints+Estimation+In+Markerless+Motion+Capture%22)
+   [Thesis resource page](papers/spinal-movement-thesis.md) · [Official USM repository record](https://erepo.usm.my/handle/123456789/24285)
 
 ### Ergonomics and motion-analysis foundations
 
